@@ -14,7 +14,11 @@ class Program
         groceryList.Add("Bread");
         groceryList.Add("Apples");
         groceryList.Add("Cheese");
+ 2nd
         groceryList.Add("Noodles");
+
+        groceryList.Add("Vegetables");
+ main
         // Print out the grocery list
         Console.WriteLine("Grocery List:");
         foreach (var item in groceryList)
